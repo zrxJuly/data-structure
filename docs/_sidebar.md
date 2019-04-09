@@ -1,4 +1,5 @@
-- LeetCode数据结构
+- LeetCode Data Structure
 
-  - [数组(1)](dataStructure/data-structure-array.md)
-  - [数组(2)](dataStructure/data-structure-array-LargestNumber.md)
+  - [Array(1)](dataStructure/data-structure-array.md)
+  - [Array(2)](dataStructure/data-structure-array-LargestNumber.md)
+  - [Array(3)](dataStructure/data-structure-array-plusone.md)
